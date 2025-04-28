@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mayankn-29
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate
+-  Hi, I’m @mayankn-29
+-  I’m interested in Data Analysis
+-  I’m currently learning Python
+-  I’m looking to collaborate
    
 
 
